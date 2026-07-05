@@ -2,7 +2,7 @@
 
 A free, single-file, browser-based tool to explore, search, and re-export the data you get from Claude's **Settings → Privacy → Export data** feature — conversations, projects, and memory. Built for people whose Claude account was banned, or who simply exported a backup and want an easy way to browse and manage it.
 
-**Live demo:** https://YOUR-USERNAME.github.io/claude-backup-manager/
+**Live demo:** https://daryooshborzuei.github.io/claude-backup-manager/
 *(replace `YOUR-USERNAME` with your actual GitHub username once you've created your account — see the publishing guide below)*
 
 ## Why this exists
